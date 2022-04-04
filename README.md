@@ -8,4 +8,4 @@ I am a college freshman majoring in CS & Graphics (DMD). Academically, I am real
 
 よろしくお願いします！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcupsilon&langs_count=7&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcupsilon&langs_count=8&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
