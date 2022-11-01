@@ -1,6 +1,6 @@
 # Rain Yan
 
-Hello there! :wave:😊
+Hello there! :wave:
 
 My name is Xiaocong, though usually I just go by Rain :)
 
@@ -10,6 +10,6 @@ I am a college student majoring in CS & Graphics (DMD). I am really interested i
 
 In my free time, to unwind, I also like to play games and watch some cultural shows with my friends. Being an aspiring traveler, I dream to be able to travel the world sometimes and capture the beautiful things & memories with my camera. I have an unsplash page for my photos (I haven't updated in a while lol): https://unsplash.com/@xiaocongyan
 
-よろしくお願いします！
+よろしくお願いします！😊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcupsilon&langs_count=6&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
