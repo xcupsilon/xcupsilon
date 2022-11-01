@@ -1,6 +1,6 @@
 # Rain Yan
 
-Hello there! :wave:
+Hello there! :wave:😊
 
 My name is Xiaocong, though usually I just go by Rain :)
 
