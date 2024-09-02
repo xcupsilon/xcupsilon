@@ -1,5 +1,4 @@
-# Rain Yan
-
+# Who Dis?
 Hello there! :wave:
 
 I am a fourth student at the University of Pennsylvania majoring in CS & Graphics (DMD). I am really interested in both the technical and artistic aspect of real-time world building through environment art and lighting!
