@@ -1,7 +1,7 @@
 # Who Dis?
-Hello there! :wave:
+Hey there! I'm Rain — currently an 3D artist at Insomniac Games (Sony), working on *Marvel’s Spider-Man* and *Marvel's Wolverine*. I’m passionate about blending real-time technology with cinematographic storytelling and immersive gameplay.
 
-I am a fourth student at the University of Pennsylvania majoring in CS & Graphics (DMD). I am really interested in both the technical and artistic aspect of real-time world building through environment art and lighting!
+Previously at miHoYo (*Genshin Impact*), and trained in CS + Graphics (DMD) at the University of Pennsylvania.
 
 よろしくお願いします！😊
 
