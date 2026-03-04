@@ -1,7 +1,5 @@
 # Who Dis?
-Hey there! I'm Rain — currently an 3D artist at Insomniac Games (Sony), working on AAA titles like *Marvel’s Spider-Man 2* and *Marvel's Wolverine*. I’m passionate about blending real-time technology with cinematographic storytelling and immersive gameplay.
-
-Previously at miHoYo (*Genshin Impact*), and trained in CS + Graphics (DMD) at the University of Pennsylvania.
+Hey there! I'm Rain — currently a technical artist at a Sony studio working on AAA games
 
 よろしくお願いします！😊
 
